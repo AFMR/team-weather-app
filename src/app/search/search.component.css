@@ -1,0 +1,44 @@
+
+  
+  div {
+    margin: 90px auto;
+    width: 60%;
+    padding: 10px;
+  
+}
+  input{
+    padding: 0 20px;
+    height: 45px;
+    width: 350px;
+    border-radius: 50px; 
+    margin-left:230px;
+    
+    
+  }
+  button{
+    
+    position: relative;
+    border: none;
+    background-color: white;
+    color: #4E39E2;
+    left: -40px;
+    font-size: 1.5rem;
+    margin-top: 19px;
+
+    
+  }
+  ::placeholder {
+
+    color: #A4A4A4;
+    font-size: 1rem;
+  }
+  h1{
+    margin-left:270px
+      }
+  p{
+    margin-left:290px;
+  } 
+  p,h1{
+      margin-bottom: 25px;
+  }
+

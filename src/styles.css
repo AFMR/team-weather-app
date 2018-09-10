@@ -24,5 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 .night-color {
     background-color: #1C0853;
     background: linear-gradient(140deg, #1C0853, #4E39E2);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
